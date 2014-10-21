@@ -1,11 +1,11 @@
 unix-scripts
 ============
 
-Scripts to simplify working with my other open-source repositories.
+Scripts to simplify working with my other open-source repositories, some of which rely on other repos being present in the same parent directory in order to use their code. 
 
-- cloneall - 
+- cloneall: Clones all of my public repositories from GitHub to the current directory. (Requires Internet access.) 
 
-- checkall - 
+- checkall: Executes 'git status' on all working copies of my GitHub repositories in the current directory, if present, or else reports their absence. 
 
 Currently these scripts are configured to handle six repositories:
 
