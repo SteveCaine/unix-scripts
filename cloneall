@@ -4,14 +4,10 @@
 # Terminal script to execute 'git clone' on all my public GitHub repositories 
 # to clone them into current OS X directory
 
-# to create:
-# 1) in Terminal, cd to folder containing this script 
-# 2) type 'chmod +x cloneall' and hit Return to make file executable
-# 3) copy this file to folder where you want to clone my code
-
 # to use: 
-# 1) in Terminal, cd to folder containing copied script
-# 2) type './cloneall' in Terminal and hit Return 
+# 1) copy this file to folder where you want to clone my code
+# 2) in Terminal, cd to folder containing copied script
+# 3) type './cloneall' in Terminal and hit Return 
 # all six repositories will be downloaded, ready for use
 
 git clone https://github.com/SteveCaine/DebugUtil.git

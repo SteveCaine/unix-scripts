@@ -4,14 +4,10 @@
 # Terminal script to execute 'git status' on working copies
 # of my public GitHub repositories in current directory
 
-# to create:
-# 1) in Terminal, cd to folder containing this script 
-# 2) type 'chmod -x checkall' and hit Return to make file executable
-# 3) copy this file to folder where you want to check git status of my code
-
 # to use: 
-# 1) in Terminal, cd to folder containing copied script
-# 2) type './checkall' in Terminal and hit Return 
+# 1) copy this file to folder where you want to check git status of my code
+# 2) in Terminal, cd to folder containing copied script
+# 3) type './checkall' in Terminal and hit Return 
 # working copies for each of my repositories, if present, will be checked
 
 checkWC()
