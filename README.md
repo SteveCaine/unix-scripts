@@ -1,18 +1,19 @@
 unix-scripts
 ============
 
-Scripts to simplify working with my other open-source repositories, some of which rely on other repos being present in the same parent directory in order to use their code. 
+Scripts to simplify working with my open-source repositories, some of which rely on other repos being present in the same parent directory in order to use their code. 
 
 - cloneall: Clones all of my public repositories from GitHub to the current directory. (Requires Internet access.) 
 
 - checkall: Executes 'git status' on all working copies of my GitHub repositories in the current directory, if present, or else reports their absence. 
 
-Currently these scripts are configured to handle six repositories:
+Currently these scripts are configured to handle seven repositories:
 
 - DebugUtil
 - DevUtil
 - FilesUtil
 - MapUtil
+- MBTA-APIs
 - StringMapMaker
 - unix-scripts
 

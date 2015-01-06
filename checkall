@@ -37,6 +37,8 @@ WC="FilesUtil"
 checkWC
 WC="MapUtil"
 checkWC
+WC="MBTA-APIs"
+checkWC
 WC="StringMapMaker"
 checkWC
 WC="unix-scripts"
