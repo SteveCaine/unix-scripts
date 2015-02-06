@@ -14,6 +14,6 @@ git clone https://github.com/SteveCaine/DebugUtil.git
 git clone https://github.com/SteveCaine/DevUtil.git
 git clone https://github.com/SteveCaine/FilesUtil.git
 git clone https://github.com/SteveCaine/MapUtil.git
-git clone https://github.com/SteveCaine/MBTA-APIs.git
+git clone https://github.com/SteveCaine/MBTA-RestKit.git
 git clone https://github.com/SteveCaine/StringMapMaker.git
 git clone https://github.com/SteveCaine/unix-scripts.git
