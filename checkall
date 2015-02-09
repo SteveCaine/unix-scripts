@@ -37,7 +37,9 @@ WC="FilesUtil"
 checkWC
 WC="MapUtil"
 checkWC
-WC="MBTA-APIs"
+WC="MBTA-RestKit"
+checkWC
+WC="MBTA-RZImport"
 checkWC
 WC="StringMapMaker"
 checkWC
