@@ -41,6 +41,8 @@ WC="MBTA-RestKit"
 checkWC
 WC="MBTA-RZImport"
 checkWC
+WC="NextBus-Mantle"
+checkWC
 WC="StringMapMaker"
 checkWC
 WC="unix-scripts"
