@@ -7,10 +7,9 @@ Scripts to simplify working with my open-source repositories, some of which rely
 
 - checkall: Executes 'git status' on all working copies of my GitHub repositories in the current directory, if present, or else reports their absence. 
 
-Currently these scripts are configured to handle eight repositories:
+Currently these scripts are configured to handle seven repositories:
 
 - DebugUtil
-- DevUtil
 - FilesUtil
 - MapUtil
 - MBTA-RestKit
