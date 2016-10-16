@@ -7,7 +7,7 @@ Scripts to simplify working with my open-source repositories, some of which rely
 
 - checkall: Executes 'git status' on all working copies of my GitHub repositories in the current directory, if present, or else reports their absence. 
 
-Currently these scripts are configured to handle nine repositories:
+Currently these scripts are configured to handle eight repositories:
 
 - DebugUtil
 - DevUtil
@@ -16,12 +16,11 @@ Currently these scripts are configured to handle nine repositories:
 - MBTA-RestKit
 - MBTA-RZImport
 - NextBus-Mantle
-- StringMapMaker
 - unix-scripts
 
 each with its own 'ReadMe' describing its purpose and use. I hope you find them helpful. 
 
 This code is distributed under the terms of the MIT license. See file "LICENSE" in this repository for details.
 
-Copyright (c) 2014-2015 Steve Caine.<br>
+Copyright (c) 2014-2016 Steve Caine.<br>
 @SteveCaine on github.com

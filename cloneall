@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# cloneall
+# cloneall.sh
 # Terminal script to execute 'git clone' on all my public GitHub repositories 
 # to clone them into current OS X directory
 
@@ -17,5 +17,4 @@ git clone https://github.com/SteveCaine/MapUtil.git
 git clone https://github.com/SteveCaine/MBTA-RestKit.git
 git clone https://github.com/SteveCaine/MBTA-RZImport.git
 git clone https://github.com/SteveCaine/NextBus-Mantle.git
-git clone https://github.com/SteveCaine/StringMapMaker.git
 git clone https://github.com/SteveCaine/unix-scripts.git

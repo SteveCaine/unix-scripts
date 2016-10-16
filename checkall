@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# checkall
+# checkall.sh
 # Terminal script to execute 'git status' on working copies
 # of my public GitHub repositories in current directory
 
@@ -42,8 +42,6 @@ checkWC
 WC="MBTA-RZImport"
 checkWC
 WC="NextBus-Mantle"
-checkWC
-WC="StringMapMaker"
 checkWC
 WC="unix-scripts"
 checkWC
