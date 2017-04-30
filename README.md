@@ -21,5 +21,5 @@ each with its own 'ReadMe' describing its purpose and use. I hope you find them 
 
 This code is distributed under the terms of the MIT license. See file "LICENSE" in this repository for details.
 
-Copyright (c) 2014-2016 Steve Caine.<br>
+Copyright (c) 2014-2017 Steve Caine.<br>
 @SteveCaine on github.com
