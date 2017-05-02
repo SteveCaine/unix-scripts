@@ -35,6 +35,8 @@ WC="FilesUtil"
 checkWC
 WC="MapUtil"
 checkWC
+WC="MBTA-Mantle"
+checkWC
 WC="MBTA-RestKit"
 checkWC
 WC="MBTA-RZImport"

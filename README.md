@@ -12,6 +12,7 @@ Currently these scripts are configured to handle seven repositories:
 - DebugUtil
 - FilesUtil
 - MapUtil
+- MBTA-Mantle
 - MBTA-RestKit
 - MBTA-RZImport
 - NextBus-Mantle
